@@ -1,1 +1,1 @@
-# College_directory
+# College_directory is an application which can be used by college students, faculties,administrator, where student can view their personal details, exam results, fees payments, leave application. And a faculty can enter,update the marks of the student. And a admin can create, update, delete the student and faculty details.
